@@ -1,1 +1,2 @@
-# LLM-UI 技术文档
+# LLM-UI 
+一个基于vue的LLM对话组件库
